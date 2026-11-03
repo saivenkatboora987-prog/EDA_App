@@ -19,8 +19,8 @@ Works with any user-uploaded `.csv` or `.xlsx` file. No fixed dataset is require
 8. **AI insights:** Gemini reads the summary statistics and missing-value counts and returns a plain-English summary, data quality issues, and suggestions for further analysis
 
 ## Results
-
-
+EDA AI summary.png
+EDA AI summary1.png
 ## How to run
 ```bash
 git clone https://github.com/saivenkatboora987-prog/EDA_App.git
