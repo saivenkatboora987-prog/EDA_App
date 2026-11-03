@@ -19,6 +19,7 @@ Works with any user-uploaded `.csv` or `.xlsx` file. No fixed dataset is require
 8. **AI insights:** Gemini reads the summary statistics and missing-value counts and returns a plain-English summary, data quality issues, and suggestions for further analysis
 
 ## Results
+<img width="977" height="718" alt="image" src="https://github.com/user-attachments/assets/6c961237-7d53-4b7a-a8ac-109ca1685917" />
 
 ## How to run
 ```bash
