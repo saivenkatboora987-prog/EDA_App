@@ -20,6 +20,8 @@ Works with any user-uploaded `.csv` or `.xlsx` file. No fixed dataset is require
 
 ## Results
 <img width="977" height="718" alt="image" src="https://github.com/user-attachments/assets/6c961237-7d53-4b7a-a8ac-109ca1685917" />
+<img width="955" height="338" alt="image" src="https://github.com/user-attachments/assets/5d714e44-3403-4fab-a70d-a7eb54b27b40" />
+
 
 ## How to run
 ```bash
